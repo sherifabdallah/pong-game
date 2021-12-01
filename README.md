@@ -1,7 +1,7 @@
 # Pong-Game
 
-<ul>
+<ol>
 
-  <ol>Iinitialize screen
-  <ol>Iinitialize screen
-</ul>
+  <li>Iinitialize screen
+  <li>Iinitialize screen
+</ol>
