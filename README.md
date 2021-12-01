@@ -1,7 +1,6 @@
 # Pong-Game
 
-<ol>
-
+<ul>
   <li>Iinitialize screen
   <li>Set title of the window
   <li>Set the background of the window
@@ -20,4 +19,4 @@
   <li>Ball Starts at 0 and evrey time loop runs---> + 0.1 xaxis
   <li>Border Cheek, top border +300px, bottom border -300px, ball is 20px
   <li>if ball is at top border Set y Cordanite +290 reverse dirction of the ball by -1
-</ol>
+</ul>
