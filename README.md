@@ -17,4 +17,4 @@ python main.py
 ```
 * You can also run the .exe file directly without needing to install python, you can dowload it from [here](https://github.com/sherif-abdallah/pong-game/raw/main/Pong%20Game.exe)
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
